@@ -25,7 +25,7 @@
 > The easy way to host this bot, deploy to Heroku
 > If you Deploy on Heroku you can Use Upto 8 Multi Clients !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/The-HellBot/DoraCore/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Micky-Virus/DoraCore/tree/main)
 
 </details>
 
