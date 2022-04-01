@@ -53,8 +53,10 @@
 
 # Credits
 - Team
-  - [Akash](https://github.com/Micky-Virus)   ``Creator``
+  - [Micky](https://github.com/Micky-Virus)   ``Creator``
   
 - Libraries
   - [pytgcalls](https://github.com/pytgcalls/pytgcalls)
   - [Pyrogram](https://github.com/pyrogram/pyrogram)
+
+Credit A.K
